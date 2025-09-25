@@ -57,7 +57,7 @@ li {
 
 /* Wrapper */
 .wrapper {
-    background: url(/assets/background.png) no-repeat;
+    background: url(.../assets/background.png) no-repeat;
     height: 950px;
     overflow: hidden;
 }
